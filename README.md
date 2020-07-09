@@ -1,4 +1,4 @@
-Slicer Extensions Index
+Slicer Extensions Inde
 =======================
 
 Overview
